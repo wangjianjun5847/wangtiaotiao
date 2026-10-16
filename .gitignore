@@ -1,0 +1,5 @@
+# 规则源克隆目录（由 update_rules.py 自动生成）
+sources/
+# Python 缓存
+__pycache__/
+*.pyc
